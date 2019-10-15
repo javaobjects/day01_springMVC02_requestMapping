@@ -3,7 +3,15 @@ package com.tencent.pojo;
 import java.util.Date;
 
 /**
- * 映射Emp表的实体类
+ * 
+* <p>Title: Emp</p>  
+* <p>
+*	Description: 
+* 	映射Emp表的实体类
+*   
+* </p> 
+* @author xianxian 
+* @date 2019年10月15日
  */
 public class Emp {
 

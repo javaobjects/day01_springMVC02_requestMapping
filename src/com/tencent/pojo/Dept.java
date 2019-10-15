@@ -1,6 +1,14 @@
 package com.tencent.pojo;
+
 /**
- * 映射Dept表的实体类
+ * 
+* <p>Title: Dept</p>  
+* <p>
+*	Description: 
+* 	映射Dept表的实体类
+* </p> 
+* @author xianxian 
+* @date 2019年10月15日
  */
 public class Dept {
 

@@ -11,7 +11,15 @@ import com.tencent.pojo.Emp;
 import com.tencent.service.IEmpService;
 
 /**
- * 业务逻辑层-接口实现类
+ * 
+* <p>Title: EmpServiceImpl</p>  
+* <p>
+*	Description: 
+* 	业务逻辑层-接口实现类
+*   
+* </p> 
+* @author xianxian 
+* @date 2019年10月15日
  */
 @Service("empService")//相当于IEmpService empService = new EmpServiceImpl();
 public class EmpServiceImpl implements IEmpService {

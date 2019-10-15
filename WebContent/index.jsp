@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<a href="getEmps.action">点击链接查询雇员信息</a>
+	<a href="emp/get.action?empno=7788&ename=tomcat">点击链接查询雇员信息---get</a><br/><br/>
+	
+	<form action="emp/get.action" method="post">
+		<input type="submit" value="点击链接查询雇员信息---post">
+	</form>
 </body>
 </html>

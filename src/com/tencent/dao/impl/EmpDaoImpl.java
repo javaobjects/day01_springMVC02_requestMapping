@@ -9,8 +9,17 @@ import org.springframework.stereotype.Repository;
 import com.tencent.dao.IEmpDao;
 import com.tencent.pojo.Dept;
 import com.tencent.pojo.Emp;
+
 /**
- * 数据访问层-接口实现类
+ * 
+* <p>Title: EmpDaoImpl</p>  
+* <p>
+*	Description: 
+*	数据访问层-接口实现类
+*   
+* </p> 
+* @author xianxian 
+* @date 2019年10月15日
  */
 @Repository("empDao")//相当于 IEmpDao empDao = new EmpDaoImpl();
 public class EmpDaoImpl implements IEmpDao {
